@@ -1,0 +1,9 @@
+2022-11-26 22:10:43,100 - root - INFO - Namespace(agg_method='attn', attn_mode='prod', bs=200, data='garden', drop_out=0.1, gpu=0, lr=0.0001, n_degree=20, n_epoch=50, n_head=2, n_layer=2, n_runs=5, node_dim=100, prefix='tgat', time='time', time_dim=100, uniform=True)
+2022-11-26 22:10:43,261 - module - INFO - Aggregation uses attention model
+2022-11-26 22:10:43,263 - module - INFO - Using scaled prod attention
+2022-11-26 22:10:43,264 - module - INFO - Using scaled prod attention
+2022-11-26 22:10:43,264 - module - INFO - Using time encoding
+2022-11-26 22:10:43,401 - root - INFO - num of training instances: 7820
+2022-11-26 22:10:43,401 - root - INFO - num of nn_val instances: 1433
+2022-11-26 22:10:43,401 - root - INFO - num of batches per epoch: 40
+2022-11-26 22:10:43,402 - root - INFO - start 0 epoch

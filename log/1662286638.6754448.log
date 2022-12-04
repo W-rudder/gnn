@@ -1,0 +1,9 @@
+2022-09-04 18:17:18,675 - root - INFO - Namespace(agg_method='attn', attn_mode='prod', bs=200, data='telecom', drop_out=0.1, gpu=0, lr=0.0001, n_degree=20, n_epoch=50, n_head=2, n_layer=2, n_runs=5, node_dim=100, prefix='hello_world', time='time', time_dim=100, uniform=True)
+2022-09-04 18:17:53,275 - module - INFO - Aggregation uses attention model
+2022-09-04 18:17:53,321 - module - INFO - Using scaled prod attention
+2022-09-04 18:17:53,336 - module - INFO - Using scaled prod attention
+2022-09-04 18:17:53,337 - module - INFO - Using time encoding
+2022-09-04 18:17:54,597 - root - INFO - num of training instances: 1904312
+2022-09-04 18:17:54,597 - root - INFO - num of nn_val instances: 518330
+2022-09-04 18:17:54,598 - root - INFO - num of batches per epoch: 9522
+2022-09-04 18:17:54,752 - root - INFO - start 0 epoch
